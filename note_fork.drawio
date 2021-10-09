@@ -1,100 +1,183 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T08:36:12.175Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="fARTKVtl4jw9orrtRgrf" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T12:57:12.039Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="yfiXbE-bN-SM41zfmbVG" version="15.5.0" type="github" pages="2">
   <diagram id="KiLB6R4w7JQDAYNRYIwK" name="fork">
-    <mxGraphModel dx="1397" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XrxF1KPVURolNLHvDw19-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="30" y="120" width="760" height="220" as="geometry" />
+          <mxGeometry x="33" y="-20" width="760" height="415" as="geometry" />
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-19" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XrxF1KPVURolNLHvDw19-2">
-          <mxGeometry width="760" height="40" as="geometry" />
+          <mxGeometry width="760" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-20" value="fork" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-19">
-          <mxGeometry width="86" height="40" as="geometry">
-            <mxRectangle width="86" height="40" as="alternateBounds" />
+          <mxGeometry width="86" height="110" as="geometry">
+            <mxRectangle width="86" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-21" value="创建与本身相同的子进程，返回子进程pid，子进程的fork返回0，https://blog.csdn.net/kxjrzyk/article/details/81603049" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-19">
-          <mxGeometry x="86" width="588" height="40" as="geometry">
-            <mxRectangle width="588" height="40" as="alternateBounds" />
+          <mxGeometry x="86" width="588" height="110" as="geometry">
+            <mxRectangle width="588" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-19">
-          <mxGeometry x="674" width="86" height="40" as="geometry">
-            <mxRectangle width="86" height="40" as="alternateBounds" />
+          <mxGeometry x="674" width="86" height="110" as="geometry">
+            <mxRectangle width="86" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-11" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XrxF1KPVURolNLHvDw19-2">
-          <mxGeometry y="40" width="760" height="40" as="geometry" />
+          <mxGeometry y="110" width="760" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-12" value="execve" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-11">
-          <mxGeometry width="86" height="40" as="geometry">
-            <mxRectangle width="86" height="40" as="alternateBounds" />
+          <mxGeometry width="86" height="90" as="geometry">
+            <mxRectangle width="86" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrxF1KPVURolNLHvDw19-13" value="执行文件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-11">
-          <mxGeometry x="86" width="588" height="40" as="geometry">
-            <mxRectangle width="588" height="40" as="alternateBounds" />
+        <mxCell id="XrxF1KPVURolNLHvDw19-13" value="&lt;div&gt;这部分内容一般发生在fork()和vfork()之后，在子进程中通过系统调用execve()可以将新程序加载到子进程的内存空间。这个操作会丢弃原来的子进程execve()之后的部分，而子进程的栈、数据会被新进程的相应部分所替换。即除了进程ID之外，这个进程已经与原来的进程没有关系了&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-11">
+          <mxGeometry x="86" width="588" height="90" as="geometry">
+            <mxRectangle width="588" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-11">
-          <mxGeometry x="674" width="86" height="40" as="geometry">
-            <mxRectangle width="86" height="40" as="alternateBounds" />
+          <mxGeometry x="674" width="86" height="90" as="geometry">
+            <mxRectangle width="86" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-7" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XrxF1KPVURolNLHvDw19-2">
-          <mxGeometry y="80" width="760" height="60" as="geometry" />
+          <mxGeometry y="200" width="760" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-8" value="wait" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-7">
-          <mxGeometry width="86" height="60" as="geometry">
-            <mxRectangle width="86" height="60" as="alternateBounds" />
+          <mxGeometry width="86" height="80" as="geometry">
+            <mxRectangle width="86" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-9" value="wait()会暂时停止目前进程的执行, 直到有信号来到或子进程结束. 如果在调用wait()时子进程已经结束, 则wait()会立即返回子进程结束状态值. 子进程的结束状态值会由参数status 返回, 而子进程的进程识别码也会一快返回. 如果不在意结束状态值, 则参数 status 可以设成NULL." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-7">
-          <mxGeometry x="86" width="588" height="60" as="geometry">
-            <mxRectangle width="588" height="60" as="alternateBounds" />
+          <mxGeometry x="86" width="588" height="80" as="geometry">
+            <mxRectangle width="588" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-7">
-          <mxGeometry x="674" width="86" height="60" as="geometry">
-            <mxRectangle width="86" height="60" as="alternateBounds" />
+          <mxGeometry x="674" width="86" height="80" as="geometry">
+            <mxRectangle width="86" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XrxF1KPVURolNLHvDw19-2">
-          <mxGeometry y="140" width="760" height="40" as="geometry" />
+          <mxGeometry y="280" width="760" height="68" as="geometry" />
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-3">
-          <mxGeometry width="86" height="40" as="geometry">
-            <mxRectangle width="86" height="40" as="alternateBounds" />
+          <mxGeometry width="86" height="68" as="geometry">
+            <mxRectangle width="86" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-3">
-          <mxGeometry x="86" width="588" height="40" as="geometry">
-            <mxRectangle width="588" height="40" as="alternateBounds" />
+          <mxGeometry x="86" width="588" height="68" as="geometry">
+            <mxRectangle width="588" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-3">
-          <mxGeometry x="674" width="86" height="40" as="geometry">
-            <mxRectangle width="86" height="40" as="alternateBounds" />
+          <mxGeometry x="674" width="86" height="68" as="geometry">
+            <mxRectangle width="86" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-23" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XrxF1KPVURolNLHvDw19-2">
-          <mxGeometry y="180" width="760" height="40" as="geometry" />
+          <mxGeometry y="348" width="760" height="67" as="geometry" />
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-23">
-          <mxGeometry width="86" height="40" as="geometry">
-            <mxRectangle width="86" height="40" as="alternateBounds" />
+          <mxGeometry width="86" height="67" as="geometry">
+            <mxRectangle width="86" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-23">
-          <mxGeometry x="86" width="588" height="40" as="geometry">
-            <mxRectangle width="588" height="40" as="alternateBounds" />
+          <mxGeometry x="86" width="588" height="67" as="geometry">
+            <mxRectangle width="588" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrxF1KPVURolNLHvDw19-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="XrxF1KPVURolNLHvDw19-23">
-          <mxGeometry x="674" width="86" height="40" as="geometry">
-            <mxRectangle width="86" height="40" as="alternateBounds" />
+          <mxGeometry x="674" width="86" height="67" as="geometry">
+            <mxRectangle width="86" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VgO8ytZaXD_kDNscqJHV" name="Page-2">
+    <mxGraphModel dx="1324" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-0" />
+        <mxCell id="62EqUMsCQpRuKhUkTogo-1" parent="62EqUMsCQpRuKhUkTogo-0" />
+        <mxCell id="62EqUMsCQpRuKhUkTogo-2" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-1">
+          <mxGeometry x="90" y="210" width="710" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-2">
+          <mxGeometry y="30" width="710" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-30" value="cmake语法" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-29">
+          <mxGeometry width="128" height="67" as="geometry">
+            <mxRectangle width="128" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-31" value="https://blog.csdn.net/taosimin87/article/details/109451174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-29">
+          <mxGeometry x="128" width="524" height="67" as="geometry">
+            <mxRectangle width="524" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-29">
+          <mxGeometry x="652" width="58" height="67" as="geometry">
+            <mxRectangle width="58" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-2">
+          <mxGeometry y="97" width="710" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-3">
+          <mxGeometry width="128" height="67" as="geometry">
+            <mxRectangle width="128" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-3">
+          <mxGeometry x="128" width="524" height="67" as="geometry">
+            <mxRectangle width="524" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-3">
+          <mxGeometry x="652" width="58" height="67" as="geometry">
+            <mxRectangle width="58" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-2">
+          <mxGeometry y="164" width="710" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-7">
+          <mxGeometry width="128" height="66" as="geometry">
+            <mxRectangle width="128" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-7">
+          <mxGeometry x="128" width="524" height="66" as="geometry">
+            <mxRectangle width="524" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-7">
+          <mxGeometry x="652" width="58" height="66" as="geometry">
+            <mxRectangle width="58" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-2">
+          <mxGeometry y="230" width="710" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-11">
+          <mxGeometry width="128" height="67" as="geometry">
+            <mxRectangle width="128" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-11">
+          <mxGeometry x="128" width="524" height="67" as="geometry">
+            <mxRectangle width="524" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62EqUMsCQpRuKhUkTogo-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="62EqUMsCQpRuKhUkTogo-11">
+          <mxGeometry x="652" width="58" height="67" as="geometry">
+            <mxRectangle width="58" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
