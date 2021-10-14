@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:40:57.422Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="CC35cdpgNfH0VdsMSV8d" version="15.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-14T02:41:24.861Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="L9xn8B5JiYgeXE9q6YEz" version="15.5.1" type="github" pages="3">
   <diagram id="KiLB6R4w7JQDAYNRYIwK" name="c++函数">
-    <mxGraphModel dx="526" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,123 +184,180 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QnSpyH1J9zSYAafzY3S6" name="虚拟化">
-    <mxGraphModel dx="1397" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KLi-RpufjRF7UJ4tJuGP-0" />
         <mxCell id="KLi-RpufjRF7UJ4tJuGP-1" parent="KLi-RpufjRF7UJ4tJuGP-0" />
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-17" value="123&#xa;" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="KLi-RpufjRF7UJ4tJuGP-1">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-17" value="123&#xa;" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" parent="KLi-RpufjRF7UJ4tJuGP-1" vertex="1">
           <mxGeometry x="180" y="100" width="780" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-17">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u-Ao8WK0kwkfY5zxSzjN-17" vertex="1">
           <mxGeometry y="30" width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-19" value="APIC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-18">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-19" value="APIC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-18" vertex="1">
           <mxGeometry width="207" height="40" as="geometry">
             <mxRectangle width="207" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-20" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Advanced Programmable Interrupt Controller高级&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/%E5%8F%AF%E7%BC%96%E7%A8%8B%E4%B8%AD%E6%96%AD%E6%8E%A7%E5%88%B6%E5%99%A8/3815837&quot; style=&quot;color: rgb(19 , 110 , 194) ; outline: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;可编程中断控制器&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-18">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-20" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Advanced Programmable Interrupt Controller高级&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/%E5%8F%AF%E7%BC%96%E7%A8%8B%E4%B8%AD%E6%96%AD%E6%8E%A7%E5%88%B6%E5%99%A8/3815837&quot; style=&quot;color: rgb(19 , 110 , 194) ; outline: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;可编程中断控制器&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-18" vertex="1">
           <mxGeometry x="207" width="503" height="40" as="geometry">
             <mxRectangle width="503" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-18">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-18" vertex="1">
           <mxGeometry x="710" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-17">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u-Ao8WK0kwkfY5zxSzjN-17" vertex="1">
           <mxGeometry y="70" width="780" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-39" value="MMIO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-38">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-39" value="MMIO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-38" vertex="1">
           <mxGeometry width="207" height="100" as="geometry">
             <mxRectangle width="207" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-40" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;MMIO(Memory-mapped&amp;nbsp;&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/I%2FO/84718&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;I/O&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;)即&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/%E5%86%85%E5%AD%98%E6%98%A0%E5%B0%84I%2FO&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;内存映射I/O&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;，它是PCI规范的一部分，&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/I%2FO%E8%AE%BE%E5%A4%87/9688581&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;I/O设备&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;被放置在内存空间而不是I/O空间。从处理器的角度看，内存映射I/O后系统设备访问起来和内存一样。这样访问AGP/PCI-E显卡上的&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/%E5%B8%A7%E7%BC%93%E5%AD%98/5725254&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;帧缓存&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;，BIOS，PCI设备就可以使用读写内存一样的&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/9979890&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;汇编指令&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;完成，简化了程序设计的难度和接口的复杂性&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-38">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-40" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;MMIO(Memory-mapped&amp;nbsp;&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/I%2FO/84718&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;I/O&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;)即&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/%E5%86%85%E5%AD%98%E6%98%A0%E5%B0%84I%2FO&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;内存映射I/O&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;，它是PCI规范的一部分，&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/I%2FO%E8%AE%BE%E5%A4%87/9688581&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;I/O设备&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;被放置在内存空间而不是I/O空间。从处理器的角度看，内存映射I/O后系统设备访问起来和内存一样。这样访问AGP/PCI-E显卡上的&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/%E5%B8%A7%E7%BC%93%E5%AD%98/5725254&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;帧缓存&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;，BIOS，PCI设备就可以使用读写内存一样的&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://baike.baidu.com/item/%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/9979890&quot; style=&quot;color: rgb(19 , 110 , 194) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;汇编指令&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 14px ; text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;完成，简化了程序设计的难度和接口的复杂性&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-38" vertex="1">
           <mxGeometry x="207" width="503" height="100" as="geometry">
             <mxRectangle width="503" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-41" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-38">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-41" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-38" vertex="1">
           <mxGeometry x="710" width="70" height="100" as="geometry">
             <mxRectangle width="70" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-17">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u-Ao8WK0kwkfY5zxSzjN-17" vertex="1">
           <mxGeometry y="170" width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-23" value="LAPIC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-22">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-23" value="LAPIC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-22" vertex="1">
           <mxGeometry width="207" height="40" as="geometry">
             <mxRectangle width="207" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-24" value="本地高级可编程终端控制器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-22">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-24" value="本地高级可编程终端控制器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-22" vertex="1">
           <mxGeometry x="207" width="503" height="40" as="geometry">
             <mxRectangle width="503" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-22">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-22" vertex="1">
           <mxGeometry x="710" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-17">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u-Ao8WK0kwkfY5zxSzjN-17" vertex="1">
           <mxGeometry y="210" width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-27" value="I/O APIC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-26">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-27" value="I/O APIC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-26" vertex="1">
           <mxGeometry width="207" height="40" as="geometry">
             <mxRectangle width="207" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-28" value="I/O 高级可编程中断控制器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-26">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-28" value="I/O 高级可编程中断控制器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-26" vertex="1">
           <mxGeometry x="207" width="503" height="40" as="geometry">
             <mxRectangle width="503" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-26">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-26" vertex="1">
           <mxGeometry x="710" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-17">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u-Ao8WK0kwkfY5zxSzjN-17" vertex="1">
           <mxGeometry y="250" width="780" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-47" value="PIO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-46">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-47" value="PIO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-46" vertex="1">
           <mxGeometry width="207" height="70" as="geometry">
             <mxRectangle width="207" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-48" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , , sans-serif , &amp;#34;tahoma&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;PIO的英文拼写是“Programming Input/Output Model”，是最早先的硬盘数据传输模式，数据传输速率低下，CPU占有率也很高&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-46">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-48" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , , sans-serif , &amp;#34;tahoma&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;PIO的英文拼写是“Programming Input/Output Model”，是最早先的硬盘数据传输模式，数据传输速率低下，CPU占有率也很高&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-46" vertex="1">
           <mxGeometry x="207" width="503" height="70" as="geometry">
             <mxRectangle width="503" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-46">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-46" vertex="1">
           <mxGeometry x="710" width="70" height="70" as="geometry">
             <mxRectangle width="70" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-17">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u-Ao8WK0kwkfY5zxSzjN-17" vertex="1">
           <mxGeometry y="320" width="780" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-43" value="ICR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-42">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-43" value="ICR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-42" vertex="1">
           <mxGeometry width="207" height="70" as="geometry">
             <mxRectangle width="207" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-44" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-weight: 700 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Interrupt Control Register&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-42">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-44" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-weight: 700 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Interrupt Control Register&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-42" vertex="1">
           <mxGeometry x="207" width="503" height="70" as="geometry">
             <mxRectangle width="503" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="u-Ao8WK0kwkfY5zxSzjN-42">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="u-Ao8WK0kwkfY5zxSzjN-42" vertex="1">
           <mxGeometry x="710" width="70" height="70" as="geometry">
             <mxRectangle width="70" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-51" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(254 , 254 , 242)&quot;&gt;对于虚拟化环境来说，存在四种地址，GVA（Guest virtual address，客户机虚拟地址）、GPA（Guest physical address，客户机物理地址）、HVA（Host virtual address，宿主机虚拟地址）、HPA（Host physical address，宿主机物理地址）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KLi-RpufjRF7UJ4tJuGP-1">
+        <mxCell id="u-Ao8WK0kwkfY5zxSzjN-51" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(254 , 254 , 242)&quot;&gt;对于虚拟化环境来说，存在四种地址，GVA（Guest virtual address，客户机虚拟地址）、GPA（Guest physical address，客户机物理地址）、HVA（Host virtual address，宿主机虚拟地址）、HPA（Host physical address，宿主机物理地址）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="KLi-RpufjRF7UJ4tJuGP-1" vertex="1">
           <mxGeometry x="188" y="50" width="1400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-0" value="深度探索linux系统虚拟化" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="KLi-RpufjRF7UJ4tJuGP-1">
+          <mxGeometry x="220" y="550" width="750" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-0">
+          <mxGeometry y="30" width="750" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-2" value="第一章 CPU虚拟化" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-1">
+          <mxGeometry width="250" height="87" as="geometry">
+            <mxRectangle width="250" height="87" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-3" value="看的比较粗略，有机会重读一下" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-1">
+          <mxGeometry x="250" width="250" height="87" as="geometry">
+            <mxRectangle width="250" height="87" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-1">
+          <mxGeometry x="500" width="250" height="87" as="geometry">
+            <mxRectangle width="250" height="87" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-0">
+          <mxGeometry y="117" width="750" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-5">
+          <mxGeometry width="250" height="86" as="geometry">
+            <mxRectangle width="250" height="86" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-5">
+          <mxGeometry x="250" width="250" height="86" as="geometry">
+            <mxRectangle width="250" height="86" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-5">
+          <mxGeometry x="500" width="250" height="86" as="geometry">
+            <mxRectangle width="250" height="86" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-0">
+          <mxGeometry y="203" width="750" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-9">
+          <mxGeometry width="250" height="87" as="geometry">
+            <mxRectangle width="250" height="87" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-9">
+          <mxGeometry x="250" width="250" height="87" as="geometry">
+            <mxRectangle width="250" height="87" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pR4VbV_KGhUi16Jw8yVm-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="pR4VbV_KGhUi16Jw8yVm-9">
+          <mxGeometry x="500" width="250" height="87" as="geometry">
+            <mxRectangle width="250" height="87" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
