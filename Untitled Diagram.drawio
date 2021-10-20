@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T15:02:00.774Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="n_a9kCpeCiTk0ZdzYCvz" version="15.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-20T15:31:59.892Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="1588wB4NZHZKm8v6sQqw" version="15.5.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1721" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="1933" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -151,7 +151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bHGTHVexfpkSSWLcN5AT" name="Page-2">
-    <mxGraphModel dx="894" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BbfnvtyRnh7v-UzqNb1H-0" />
         <mxCell id="BbfnvtyRnh7v-UzqNb1H-1" parent="BbfnvtyRnh7v-UzqNb1H-0" />
@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wUkOdxcKM_5zgOeRBmIv" name="Page-3">
-    <mxGraphModel dx="1749" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1933" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="g8q2ObV6TugnC6j4Fiym-0" />
         <mxCell id="g8q2ObV6TugnC6j4Fiym-1" parent="g8q2ObV6TugnC6j4Fiym-0" />
@@ -228,11 +228,173 @@
         <mxCell id="g8q2ObV6TugnC6j4Fiym-4" value="&lt;h1 class=&quot;postTitle&quot; style=&quot;margin: 0px 0px 10px ; padding: 0px 15px ; font-size: 12px ; font-weight: normal ; background-image: url(&amp;#34;images/logo.png&amp;#34;) ; background-repeat: repeat-y ; background-position: -10px 0px ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;a id=&quot;cb_post_title_url&quot; class=&quot;postTitle2 vertical-middle&quot; href=&quot;https://www.cnblogs.com/wang3680/p/193f39bbbfb071a730b9bcf09dc960c5.html&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 24px ; color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; vertical-align: middle&quot;&gt;RPC（Remote Procedure Call Protocol）——远程过程调用协议&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;div class=&quot;clear&quot; style=&quot;margin: 0px ; padding: 0px ; clear: both ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;/div&gt;&lt;div class=&quot;postBody&quot; style=&quot;margin: 0px 0px 5px ; padding: 0px 15px ; font-size: 13.92px ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div id=&quot;cnblogs_post_body&quot; class=&quot;blogpost-body blogpost-body-html&quot; style=&quot;margin: 0px 0px 30px ; padding: 0px ; word-break: break-word ; overflow: auto&quot;&gt;RPC（Remote Procedure Call Protocol）——&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/431455.htm&quot; style=&quot;margin: 0px ; padding: 1px 3px ; color: rgb(0 , 128 , 0)&quot;&gt;远程过程调用&lt;/a&gt;协议，&lt;/div&gt;&lt;div id=&quot;cnblogs_post_body&quot; class=&quot;blogpost-body blogpost-body-html&quot; style=&quot;margin: 0px 0px 30px ; padding: 0px ; word-break: break-word ; overflow: auto&quot;&gt;它是一种通过网络从远程&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/3314.htm&quot; style=&quot;margin: 0px ; padding: 1px 3px ; color: rgb(0 , 128 , 0)&quot;&gt;计算机&lt;/a&gt;程序上请求服务，而不需要了解底层网络技术的协议。&lt;/div&gt;&lt;div id=&quot;cnblogs_post_body&quot; class=&quot;blogpost-body blogpost-body-html&quot; style=&quot;margin: 0px 0px 30px ; padding: 0px ; word-break: break-word ; overflow: auto&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/1787799.htm&quot; style=&quot;margin: 0px ; padding: 1px 3px ; color: rgb(0 , 128 , 0)&quot;&gt;RPC协议&lt;/a&gt;假定某些&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/441895.htm&quot; style=&quot;margin: 0px ; padding: 1px 3px ; color: rgb(0 , 128 , 0)&quot;&gt;传输协议&lt;/a&gt;的存在，如TCP或UDP，为通信程序之间携带信息数据。&lt;/div&gt;&lt;div id=&quot;cnblogs_post_body&quot; class=&quot;blogpost-body blogpost-body-html&quot; style=&quot;margin: 0px 0px 30px ; padding: 0px ; word-break: break-word ; overflow: auto&quot;&gt;在OSI&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/538641.htm&quot; style=&quot;margin: 0px ; padding: 1px 3px ; color: rgb(0 , 128 , 0)&quot;&gt;网络通信&lt;/a&gt;模型中，RPC跨越了&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/239605.htm&quot; style=&quot;margin: 0px ; padding: 1px 3px ; color: rgb(0 , 128 , 0)&quot;&gt;传输层&lt;/a&gt;和&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/239619.htm&quot; style=&quot;margin: 0px ; padding: 1px 3px ; color: rgb(0 , 128 , 0)&quot;&gt;应用层&lt;/a&gt;。&lt;/div&gt;&lt;div id=&quot;cnblogs_post_body&quot; class=&quot;blogpost-body blogpost-body-html&quot; style=&quot;margin: 0px 0px 30px ; padding: 0px ; word-break: break-word ; overflow: auto&quot;&gt;RPC使得开发包括网络分布式多程序在内的&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/330120.htm&quot; style=&quot;margin: 0px ; padding: 1px 3px ; color: rgb(0 , 128 , 0)&quot;&gt;应用程序&lt;/a&gt;更加容易&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="g8q2ObV6TugnC6j4Fiym-1">
           <mxGeometry x="-245" y="-75" width="730" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="0gLwqbQbu44mnvN75hh3-0" value="可以大致理解为一种进程之间通信的方法，&lt;br&gt;只不过这些进程是放在不同主机上的&lt;br&gt;当然在同一台主机上也可以使用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="g8q2ObV6TugnC6j4Fiym-1">
+        <mxCell id="0gLwqbQbu44mnvN75hh3-0" value="可以大致理解为一种程序之间通信的方法，&lt;br&gt;只不过这些程序是放在不同主机上的&lt;br&gt;当然在同一台主机上也可以使用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="g8q2ObV6TugnC6j4Fiym-1">
           <mxGeometry x="540" y="-85" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0gLwqbQbu44mnvN75hh3-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="g8q2ObV6TugnC6j4Fiym-1">
-          <mxGeometry x="-160" y="510" width="40" height="20" as="geometry" />
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-0" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="g8q2ObV6TugnC6j4Fiym-1">
+          <mxGeometry x="-290" y="500" width="800" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="30" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-2" value="RpcServer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-1">
+          <mxGeometry width="266" height="30" as="geometry">
+            <mxRectangle width="266" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-3" value="负责导出（export）远程接口" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-1">
+          <mxGeometry x="266" width="444" height="30" as="geometry">
+            <mxRectangle width="444" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-1">
+          <mxGeometry x="710" width="90" height="30" as="geometry">
+            <mxRectangle width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="60" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-6" value="RpcClient" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-5">
+          <mxGeometry width="266" height="30" as="geometry">
+            <mxRectangle width="266" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-7" value="负责导入（import）远程接口的代理实现" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-5">
+          <mxGeometry x="266" width="444" height="30" as="geometry">
+            <mxRectangle width="444" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-5">
+          <mxGeometry x="710" width="90" height="30" as="geometry">
+            <mxRectangle width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="90" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-10" value="RpcProxy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-9">
+          <mxGeometry width="266" height="30" as="geometry">
+            <mxRectangle width="266" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-11" value="远程接口的代理实现" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-9">
+          <mxGeometry x="266" width="444" height="30" as="geometry">
+            <mxRectangle width="444" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-9">
+          <mxGeometry x="710" width="90" height="30" as="geometry">
+            <mxRectangle width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-83" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="120" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-84" value="RpcInvoker" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-83">
+          <mxGeometry width="266" height="40" as="geometry">
+            <mxRectangle width="266" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-85" value="&lt;div&gt;客户方实现：负责编码调用信息和发送调用请求到服务方并等待调用结果返回&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;服务方实现：负责调用服务端接口的具体实现并返回调用结果&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-83">
+          <mxGeometry x="266" width="444" height="40" as="geometry">
+            <mxRectangle width="444" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD82V1wDkUkY0SHwz8R5-86" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-83">
+          <mxGeometry x="710" width="90" height="40" as="geometry">
+            <mxRectangle width="90" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="160" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-38" value="RpcProtocol" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-37">
+          <mxGeometry width="266" height="40" as="geometry">
+            <mxRectangle width="266" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-39" value="负责协议编/解码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-37">
+          <mxGeometry x="266" width="444" height="40" as="geometry">
+            <mxRectangle width="444" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-37">
+          <mxGeometry x="710" width="90" height="40" as="geometry">
+            <mxRectangle width="90" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-41" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="200" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-42" value="RpcConnector" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-41">
+          <mxGeometry width="266" height="40" as="geometry">
+            <mxRectangle width="266" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-43" value="负责维持客户方和服务方的连接通道和发送数据到服务方" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-41">
+          <mxGeometry x="266" width="444" height="40" as="geometry">
+            <mxRectangle width="444" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-41">
+          <mxGeometry x="710" width="90" height="40" as="geometry">
+            <mxRectangle width="90" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="240" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-46" value="RpcAcceptor" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-45">
+          <mxGeometry width="266" height="40" as="geometry">
+            <mxRectangle width="266" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-47" value="负责接收客户方请求并返回请求结果" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-45">
+          <mxGeometry x="266" width="444" height="40" as="geometry">
+            <mxRectangle width="444" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-48" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-45">
+          <mxGeometry x="710" width="90" height="40" as="geometry">
+            <mxRectangle width="90" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-53" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="280" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-54" value="RpcProcessor" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-53">
+          <mxGeometry width="266" height="40" as="geometry">
+            <mxRectangle width="266" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-55" value="负责在服务方控制调用过程，包括管理调用线程池、超时时间等" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-53">
+          <mxGeometry x="266" width="444" height="40" as="geometry">
+            <mxRectangle width="444" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-53">
+          <mxGeometry x="710" width="90" height="40" as="geometry">
+            <mxRectangle width="90" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dD82V1wDkUkY0SHwz8R5-0">
+          <mxGeometry y="320" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-50" value="RpcChannel" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-49">
+          <mxGeometry width="266" height="40" as="geometry">
+            <mxRectangle width="266" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-51" value="数据传输通道" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-49">
+          <mxGeometry x="266" width="444" height="40" as="geometry">
+            <mxRectangle width="444" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpHBmu3n3NS30egiLu8L-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="vpHBmu3n3NS30egiLu8L-49">
+          <mxGeometry x="710" width="90" height="40" as="geometry">
+            <mxRectangle width="90" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
