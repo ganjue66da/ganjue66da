@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T04:30:25.270Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="1C4LCfqXfh8svJ9c_g3j" version="15.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-21T04:32:17.819Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="w5g-TdG-Z8k4BWmYhKqr" version="15.5.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2207" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bHGTHVexfpkSSWLcN5AT" name="Page-2">
-    <mxGraphModel dx="1380" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BbfnvtyRnh7v-UzqNb1H-0" />
         <mxCell id="BbfnvtyRnh7v-UzqNb1H-1" parent="BbfnvtyRnh7v-UzqNb1H-0" />
@@ -171,7 +171,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k9uwBr9H_tVa_-3lD6Te" name="Page-4">
-    <mxGraphModel dx="1380" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1380" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="r-ItrP_YAVsaijYYIa1f-0" />
         <mxCell id="r-ItrP_YAVsaijYYIa1f-1" parent="r-ItrP_YAVsaijYYIa1f-0" />
@@ -211,8 +211,14 @@
         <mxCell id="AyPbPcoqD-yLph46vPD--6" value="将一些不能够随机生成的指令进行特殊处理，然后插入到指令块中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="r-ItrP_YAVsaijYYIa1f-1" vertex="1">
           <mxGeometry x="430" y="330" width="360" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="HXgY4X516N8HP_py6RBI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r-ItrP_YAVsaijYYIa1f-1" source="AyPbPcoqD-yLph46vPD--7" target="HXgY4X516N8HP_py6RBI-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AyPbPcoqD-yLph46vPD--7" value="产生机器码，利用rpc框架，在x86和3a5000的机器上分别运行" style="whiteSpace=wrap;html=1;rounded=0;" parent="r-ItrP_YAVsaijYYIa1f-1" vertex="1">
           <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HXgY4X516N8HP_py6RBI-0" value="对比运行结果，找出出错指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="r-ItrP_YAVsaijYYIa1f-1">
+          <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
