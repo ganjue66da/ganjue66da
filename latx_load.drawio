@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T08:19:52.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" version="15.9.6" etag="_7kZAw67LpSqQQ-quT4x" type="github"><diagram id="_OFuIQ4c-i2M0idVsK9m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-17T09:20:05.259Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="S94ez1G4w2-4vsVrFmTq" version="15.9.6" type="github">
+  <diagram id="_OFuIQ4c-i2M0idVsK9m" name="Page-1">
+    <mxGraphModel dx="1483" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oj0pNWgwfExrGv313d5z-1" value="" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="1470" height="804" as="geometry" />
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oj0pNWgwfExrGv313d5z-1">
+          <mxGeometry y="30" width="1470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-3" value="opnd" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-2">
+          <mxGeometry width="120" height="50" as="geometry">
+            <mxRectangle width="120" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-4" value="zero extend" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-2">
+          <mxGeometry x="120" width="350" height="50" as="geometry">
+            <mxRectangle width="350" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-5" value="sign extend" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-2">
+          <mxGeometry x="470" width="460" height="50" as="geometry">
+            <mxRectangle width="460" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-14" value="unknuw extend" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-2">
+          <mxGeometry x="930" width="540" height="50" as="geometry">
+            <mxRectangle width="540" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oj0pNWgwfExrGv313d5z-1">
+          <mxGeometry y="80" width="1470" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-7" value="imm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-6">
+          <mxGeometry width="120" height="200" as="geometry">
+            <mxRectangle width="120" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-8" value="&lt;br&gt;&lt;br&gt;当成无符号数处理&lt;br&gt;高32位为0，直接调用32位函数加载低32位&lt;br&gt;高32位为-1，且低32位小于0，前面加负号后调用32位函数加载到寄存器，&lt;br&gt;然后用0-寄存器的值再存回寄存器。&lt;br&gt;其他情况：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;一般加载一个64位立即数需要4条指令，&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;但是某些特殊值是可以省略其中的部分步骤的&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;因此将64位划分为 12 20 20 12， &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;判断每部分是否有符号位，是否全0，是否全1&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;由此决定省下哪部分&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="oj0pNWgwfExrGv313d5z-6">
+          <mxGeometry x="120" width="350" height="200" as="geometry">
+            <mxRectangle width="350" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-9" value="当成有符号数处理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-6">
+          <mxGeometry x="470" width="460" height="200" as="geometry">
+            <mxRectangle width="460" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-6">
+          <mxGeometry x="930" width="540" height="200" as="geometry">
+            <mxRectangle width="540" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oj0pNWgwfExrGv313d5z-1">
+          <mxGeometry y="280" width="1470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-18">
+          <mxGeometry width="120" height="110" as="geometry">
+            <mxRectangle width="120" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="oj0pNWgwfExrGv313d5z-18">
+          <mxGeometry x="120" width="350" height="110" as="geometry">
+            <mxRectangle width="350" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-18">
+          <mxGeometry x="470" width="460" height="110" as="geometry">
+            <mxRectangle width="460" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-18">
+          <mxGeometry x="930" width="540" height="110" as="geometry">
+            <mxRectangle width="540" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oj0pNWgwfExrGv313d5z-1">
+          <mxGeometry y="390" width="1470" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-11" value="gpr" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-10">
+          <mxGeometry width="120" height="280" as="geometry">
+            <mxRectangle width="120" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-12" value="普通寄存器：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;32位：&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;如果扩展模式和原寄存器相同，则直接返回原寄存器，&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;否则用LISA_MOV32_ZX扩展&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;64位：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;直接返回原寄存器&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;16位：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;如需扩展，使用LISA_BSTRPICK_D扩展&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;高8位寄存器：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;将高八位移到新寄存的低八位&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;低八位：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;如需扩展，使用andi 0xff进行扩展&lt;br&gt;XMM寄存器：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;LISA_MOVFR2GR_D + LISA_MOV32_ZX&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="oj0pNWgwfExrGv313d5z-10">
+          <mxGeometry x="120" width="350" height="280" as="geometry">
+            <mxRectangle width="350" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-13" value="&lt;div&gt;&lt;span&gt;普通寄存器：&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;32位：&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;如果扩展模式和原寄存器相同，则直接返回原寄存器，&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;否则用LISA_MOV32_SX扩展&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;64位：&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;直接返回原寄存器&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;16位：&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;如需扩展，使用LISA_EXT_W_H扩展&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;高8位寄存器：&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;用LISA_SLLI_W&amp;nbsp; +&amp;nbsp; LISA_SRAIW 扩展&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;低八位：&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;如需扩展，使用andi 0xff进行扩展&lt;/span&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;/div&gt;	&lt;/span&gt;&lt;span&gt;XMM:&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;LISA_MOVFR2GR_S&lt;br&gt;	&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="oj0pNWgwfExrGv313d5z-10">
+          <mxGeometry x="470" width="460" height="280" as="geometry">
+            <mxRectangle width="460" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-16" value="XMM: LISA_MOVFR2GR_D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-10">
+          <mxGeometry x="930" width="540" height="280" as="geometry">
+            <mxRectangle width="540" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oj0pNWgwfExrGv313d5z-1">
+          <mxGeometry y="670" width="1470" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-23">
+          <mxGeometry width="120" height="134" as="geometry">
+            <mxRectangle width="120" height="134" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;" vertex="1" parent="oj0pNWgwfExrGv313d5z-23">
+          <mxGeometry x="120" width="350" height="134" as="geometry">
+            <mxRectangle width="350" height="134" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-23">
+          <mxGeometry x="470" width="460" height="134" as="geometry">
+            <mxRectangle width="460" height="134" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0pNWgwfExrGv313d5z-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="oj0pNWgwfExrGv313d5z-23">
+          <mxGeometry x="930" width="540" height="134" as="geometry">
+            <mxRectangle width="540" height="134" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
